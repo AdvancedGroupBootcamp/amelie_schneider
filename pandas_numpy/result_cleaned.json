@@ -1,0 +1,306 @@
+{
+    "_id": {
+        "0": "1202019029",
+        "1": "232323231323212098"
+    },
+    "affiliation": {
+        "0": "qare",
+        "1": "qare"
+    },
+    "areCotationsAuthorized": {
+        "0": false,
+        "1": true
+    },
+    "canChangeBeneficiary": {
+        "0": true,
+        "1": true
+    },
+    "createdAt": {
+        "0": "2020-09-27T21:30:00.116Z",
+        "1": "2021-09-27T21:24:00.049Z"
+    },
+    "customerCreditHasBeenChecked": {
+        "0": true,
+        "1": true
+    },
+    "customerCreditHasBeenDecreased": {
+        "0": false,
+        "1": false
+    },
+    "details": {
+        "0": [
+            "Malade: mal de dos",
+            "fi\u00e8vre",
+            "vomissements",
+            "covid "
+        ],
+        "1": [
+            "Trouble du sommeil",
+            "tension",
+            "douleurs au dos "
+        ]
+    },
+    "doctorHasReviewed": {
+        "0": false,
+        "1": false
+    },
+    "doctorId": {
+        "0": "102901290192091",
+        "1": "2308863920973287839723"
+    },
+    "doctorReminderSent": {
+        "0": false,
+        "1": false
+    },
+    "doctorValidation": {
+        "0": false,
+        "1": false
+    },
+    "estimatedStartDate": {
+        "0": "2021-09-27T22:00:00.000Z",
+        "1": "2021-09-27T21:50:00.000Z"
+    },
+    "eventId": {
+        "0": "23092039023",
+        "1": "736628369276382638722"
+    },
+    "facturationId": {
+        "0": "121212",
+        "1": "5910164Z23"
+    },
+    "hidePastConsultationsWithOtherPractitioners": {
+        "0": false,
+        "1": false
+    },
+    "isEhpad": {
+        "0": false,
+        "1": false
+    },
+    "isFirstConsultation": {
+        "0": false,
+        "1": false
+    },
+    "isNotConform": {
+        "0": false,
+        "1": false
+    },
+    "isNotConformReason": {
+        "0": [],
+        "1": []
+    },
+    "isSafari": {
+        "0": false,
+        "1": false
+    },
+    "patientAdministrativeArea": {
+        "0": "92",
+        "1": "9z5"
+    },
+    "patientHasReviewed": {
+        "0": false,
+        "1": false
+    },
+    "patientId": {
+        "0": "1209201902",
+        "1": "33298320932083920389023"
+    },
+    "patientPhoneNumber": {
+        "0": "+33063223",
+        "1": "+33632332"
+    },
+    "patientReminderSent": {
+        "0": false,
+        "1": false
+    },
+    "preferredMedium": {
+        "0": "video",
+        "1": "video"
+    },
+    "pricingVersion": {
+        "0": 6,
+        "1": 6
+    },
+    "reminderChecked": {
+        "0": false,
+        "1": false
+    },
+    "reopenCount": {
+        "0": 0,
+        "1": 0
+    },
+    "speciality": {
+        "0": "general-practician",
+        "1": "general-practician"
+    },
+    "status": {
+        "0": "assigned",
+        "1": "assigned"
+    },
+    "transcriptReminderSent": {
+        "0": false,
+        "1": false
+    },
+    "updatedAt": {
+        "0": "2020-09-27T21:30:00.116Z",
+        "1": "2021-09-27T21:25:52.257Z"
+    },
+    "usePaymentIntent": {
+        "0": true,
+        "1": true
+    },
+    "visitIds": {
+        "0": [
+            232323232,
+            232323232
+        ],
+        "1": [
+            2323212,
+            2323211
+        ]
+    },
+    "cart.act": {
+        "0": "consultation",
+        "1": "consultation"
+    },
+    "cart.actId": {
+        "0": 9423320,
+        "1": 232131
+    },
+    "cart.created_at": {
+        "0": "2020-09-26T20:48:27.000Z",
+        "1": "2021-09-27T21:23:04.000Z"
+    },
+    "cart.currency": {
+        "0": "EUR",
+        "1": "EUR"
+    },
+    "cart.customerId": {
+        "0": 232323,
+        "1": 232312
+    },
+    "cart.id": {
+        "0": 2323232,
+        "1": 232311
+    },
+    "cart.isChargeable": {
+        "0": false,
+        "1": true
+    },
+    "cart.isImmediateCharge": {
+        "0": false,
+        "1": false
+    },
+    "cart.isRequirable": {
+        "0": false,
+        "1": false
+    },
+    "cart.majF": {
+        "0": 0,
+        "1": 0
+    },
+    "cart.majMCG": {
+        "0": 5,
+        "1": 5
+    },
+    "cart.majMEG": {
+        "0": 0,
+        "1": 0
+    },
+    "cart.majMN35": {
+        "0": 35,
+        "1": 35
+    },
+    "cart.majMN40": {
+        "0": 0,
+        "1": 0
+    },
+    "cart.majMPA": {
+        "0": 0,
+        "1": 0
+    },
+    "cart.paymentIntents": {
+        "0": [],
+        "1": [
+            {
+                "amount": 35,
+                "amountReceived": 0,
+                "amountRefunded": 0,
+                "applicationFee": "500",
+                "captured": false,
+                "cartId": 30723292,
+                "created_at": "2021-09-27T21:23:00.000Z",
+                "currency": "eur",
+                "destination": "a1GS23OuGIVsKDKvJJu",
+                "id": 76321821,
+                "payment_method_id": 4583914,
+                "status": "requires_uncapture",
+                "stripeId": "pml1223SpLuC0Xka8T6j",
+                "updated_at": "2021-09-27T21:23:04.000Z"
+            }
+        ]
+    },
+    "cart.price": {
+        "0": 25,
+        "1": 25
+    },
+    "cart.priceMin": {
+        "0": 25,
+        "1": 25
+    },
+    "cart.quotedPrice": {
+        "0": 0,
+        "1": 25
+    },
+    "cart.status": {
+        "0": "required",
+        "1": "required"
+    },
+    "cart.tokenId": {
+        "0": "Hs3330qZR",
+        "1": "pWI_S"
+    },
+    "cart.updated_at": {
+        "0": "2020-09-26T20:48:27.000Z",
+        "1": "2021-09-27T21:23:04.000Z"
+    },
+    "cart.usePaymentIntent": {
+        "0": true,
+        "1": true
+    },
+    "estimatedLength.unit": {
+        "0": "minutes",
+        "1": "heure"
+    },
+    "estimatedLength.utc": {
+        "0": "+0000",
+        "1": "+0000"
+    },
+    "estimatedLength.value": {
+        "0": 10,
+        "1": 1
+    },
+    "initiator.role": {
+        "0": "patient",
+        "1": "patient"
+    },
+    "snapshot.beneficiary.hasSocialSecurityNumber": {
+        "0": true,
+        "1": true
+    },
+    "snapshot.beneficiary.medicalInsurance.securiteSocialNumber": {
+        "0": "23232323232311",
+        "1": "262129ZZZZ05"
+    },
+    "snapshot.consultation.isPartnershipOfferIncluded": {
+        "0": false,
+        "1": false
+    },
+    "snapshot.doctor.isCME": {
+        "0": false,
+        "1": false
+    },
+    "snapshot.doctor.offer": {
+        "0": "connect",
+        "1": "connect_plus"
+    }
+}
